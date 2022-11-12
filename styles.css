@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(255, 83, 83);
+    background-color: rgb(255, 124, 124);
 }
 
 
 h1 {
-    font-size: 17rem;
+    font-size: 12rem;
     font-family: Xanh Mono;
 }
 
