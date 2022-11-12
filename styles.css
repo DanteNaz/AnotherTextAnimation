@@ -3,15 +3,15 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(25, 29, 58);
+    background-color: rgb(255, 83, 83);
 }
 
 
 h1 {
-    font-size: 15rem;
-    font-family: Dancing Script;
+    font-size: 17rem;
+    font-family: Xanh Mono;
 }
 
 .letter {
-    transition: color 1000ms;
+    transition: color 700ms;
 }
